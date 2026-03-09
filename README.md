@@ -54,7 +54,7 @@ Ranked in the **top 10%** of participants. Collaborated on a structured tech pro
 - 🤖 Develop AI-Powered Prototypes in Google AI Studio — *Google*
 - 🔐 Designing and Implementing Effective Cybersecurity Controls — *LinkedIn*
 - 🏦 Lloyds Banking Group Business Commercial Banking Introduction — *Forage*
-- 🔐 Cybersecurity: Key Policies and Resources — LinkedIn
+- 🔐 Cybersecurity: Key Policies and Resources — *LinkedIn*
 
 ---
 
