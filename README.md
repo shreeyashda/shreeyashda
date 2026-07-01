@@ -33,9 +33,6 @@ Full-stack web app using the Gemini API for automated text summarisation. Featur
 Redesigned a student grade management system with a 3NF-normalised database, improved UI, and security protocols ensuring **100% data integrity** across confidential records.  
 `HTML` `CSS` `JavaScript` `React` `SQL` `Git`
 
-### 📈 [Trading Simulator](https://github.com/shreeyashda/TradingSimulator)
-A trading simulation project exploring financial data and programming logic.
-
 ---
 
 ## 💼 Experience
